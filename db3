@@ -1,0 +1,20 @@
+db.students.insertMany([
+    {
+        name: "Naveen",
+        age: 21,
+        department: "IT",
+        city: "Salem"
+    },
+    {
+        name: "Kumar",
+        age: 22,
+        department: "CSE",
+        city: "Erode"
+    },
+    {
+        name: "Arun",
+        age: 23,
+        department: "ECE",
+        city: "Chennai"
+    }
+])
