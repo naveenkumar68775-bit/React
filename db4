@@ -1,0 +1,6 @@
+db.students.insertOne({
+    name: "Naveen",
+    age: 21,
+    department: "IT",
+    city: "Salem"
+})
